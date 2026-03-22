@@ -1,0 +1,15 @@
+{
+  "name": "Kinetic Vault VPN",
+  "short_name": "KineticVPN",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0b0e14",
+  "theme_color": "#0b0e14",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/508/508281.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
